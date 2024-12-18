@@ -1,0 +1,44 @@
+body {
+	border: 2px, solid, rgb(38, 170, 222);
+	text-align: center;
+	margin: 10px;
+	padding: 20px;
+}
+h1{
+	padding-top: 20px;
+	border-bottom: 2px solid brown;
+}
+
+#para1{
+	font-family: serif, Times New Roman;
+	background: rgba(197, 226, 237);
+	border-left: 4px solid rgb(48, 178, 230);
+	padding: 4px;
+	text-align: justify;
+	line-height: 1.5em;
+}
+
+#para2 {
+	font-family: Helvetica;
+	background-color: rgb(237, 211, 140);
+	border-right: 4px solid rgb(209, 163,38);
+	padding: 4px;
+	text-align: justify;
+	line-height: 1.5em;
+}
+
+#box1 {
+	border: 2px dashed purple;
+	padding-top: 30px;
+}
+
+h2 {
+	color: purple;
+}
+
+#box2 {
+	color: white;
+	background: rgb(242, 58, 28);
+	border: 10px solid rgb(222, 38, 38);
+	margin: 0 150px 50px 30px;
+}
